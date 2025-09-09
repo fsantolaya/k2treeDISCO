@@ -1,4 +1,4 @@
-Otra fuente: https://gitlab.lbd.org.es/lbd-open/k2tree-disk
+[Otra fuente:] (https://gitlab.lbd.org.es/lbd-open/k2tree-disk)
 
 Créditos:
 
@@ -26,10 +26,10 @@ este proyecto incluye:
 2.- Ktree para usar con disco.
 
 
-ALGUNAS INSTRUCCIONES:
-1.- La construcción del k2tree se hace con la librería de simong GOG (libsdsl).
-2.- se probó con k=2, k=4 y k=8.
-3.- Este proyecto debe recibir los archivos del k2tree listos para usar.
-4.- van unos script. ubicar estos, luego de compilación con cmake, en carpeta src de la compilación.
+#ALGUNAS INSTRUCCIONES:
+- La construcción del k2tree se hace con la librería de simong GOG (libsdsl).
+- se probó con k=2, k=4 y k=8.
+- Este proyecto debe recibir los archivos del k2tree listos para usar.
+- van unos script. ubicar estos, luego de compilación con cmake, en carpeta src de la compilación.
 
 

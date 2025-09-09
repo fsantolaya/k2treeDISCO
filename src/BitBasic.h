@@ -32,7 +32,12 @@
 #define BV_BITBASIC_H
 
 #include <bit>
-#include <bits/stdc++.h>
+#include <cmath>
+#include <vector>
+#include <bitset>
+#include <iostream>
+#include <cstdint>
+
 
 namespace BitBasic {
     /**
